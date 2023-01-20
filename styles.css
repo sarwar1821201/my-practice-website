@@ -12,3 +12,7 @@
     background-image: url("images/rooms/Double.png");
     height: 100vh;
  }
+
+ .client-image{
+    width:160px;
+ }
