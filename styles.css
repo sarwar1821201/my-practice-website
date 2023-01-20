@@ -1,0 +1,14 @@
+.banner-img-1{
+   background-image: url("images/rooms/Family.png");
+   height: 100vh;
+}
+
+.banner-img-2{
+    background-image: url("images/rooms/Single.png");
+    height: 100vh;
+ }
+
+ .banner-img-3{
+    background-image: url("images/rooms/Double.png");
+    height: 100vh;
+ }
